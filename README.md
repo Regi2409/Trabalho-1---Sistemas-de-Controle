@@ -7,20 +7,18 @@ A avaliação enfatiza a análise crítica dos resultados obtidos, considerando 
 
 As plantas analisadas são:
 
-Planta A:
-$$
-G(s) = \frac{0.20 e^{-5s}}{20s + 1}
-$$
+`Planta A:`  
 
-Planta B:
-$$
-G(s) = \frac{100 e^{-7s}}{(14s + 1)(21s + 1)}
-$$
+![G(s)](https://latex.codecogs.com/svg.image?\color{white}G(s)%20=%20\frac{0.20e^{-5s}}{20s%20+%201})
 
-Planta C:
-$$
-G(s) = \frac{-8}{s^2 + 1.5s - 1}
-$$
+`Planta B:`  
+
+![G(s)](https://latex.codecogs.com/svg.image?\color{white}G(s)%20=%20=%20\frac{100e^{-7s}}{(14s%20+%201)(21s%20+%201)})
+
+`Planta C:`  
+
+![G(s)](https://latex.codecogs.com/svg.image?\color{white}G(s)%20=%20\frac{-8}{s^2%20+%201.5s%20-%201})
+
 
 Cada uma é estudada sob diferentes critérios de projeto e métodos de controle, com ênfase em resposta temporal, resposta em frequência e análise de erro estacionário.
 
